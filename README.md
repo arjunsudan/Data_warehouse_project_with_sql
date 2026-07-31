@@ -73,6 +73,12 @@ Write analytical SQL queries to deliver core metrics across three main domains:
 - **Product Performance**
 - **Sales Trends**
 
+## 📊 SQL Analytics & Exploratory Data Analysis
+
+Looking for the advanced analytical SQL queries, customer segmentation, and EDA performed on this Gold-layer Star Schema? 
+
+👉 Check out the [SQL Exploratory Data Analysis Project Repository](https://github.com/arjunsudan/SQL_Exploratory_Data_Analysis_Project).
+
 🛡️ License
 This project is open-source under the MIT License. Feel free to use, modify, and build upon it with proper attribution.
 
